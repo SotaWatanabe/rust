@@ -1,1 +1,1 @@
-/Users/watanabesouta/Desktop/rust/projects/guessing_game/target/debug/guessing_game: /Users/watanabesouta/Desktop/rust/projects/guessing_game/src/main.rs
+/Users/watanabesouta/Desktop/learn/rust/target/debug/guessing_game: /Users/watanabesouta/Desktop/learn/rust/src/main.rs
